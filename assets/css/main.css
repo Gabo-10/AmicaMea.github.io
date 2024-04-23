@@ -36,7 +36,7 @@ body {
   font-family: var(--font-default);
   color: var(--color-default);
   background-color: #DF904E;
-  background-image: url(assets/img/amicamea.png);/*colocar imagen*/
+  background-image: url(/assets/img/amicamea.png);/*colocar imagen*/
   background-position: center center;/*acomodarla*/
   background-repeat: no-repeat;/**/
   background-size: contain;/*colocar a tamaño original*/
@@ -584,10 +584,10 @@ h6 {
     z-index: 9996;
 
     background-image: url(/assets/img/amicamea.png);/*colocar imagen*/
-  background-position: center center;/*acomodarla*/
-  background-repeat: no-repeat;/**/
-  background-size: contain;/*colocar a tamaño*/
-  background-attachment: fixed;/*para que abarque hasata abajo de la pantalla*/
+    background-position: center center;/*acomodarla*/
+    background-repeat: no-repeat;/**/
+    background-size: contain;/*colocar a tamaño*/
+    background-attachment: fixed;/*para que abarque hasata abajo de la pantalla*/
   }
 }
 
