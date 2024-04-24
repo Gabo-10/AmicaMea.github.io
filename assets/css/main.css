@@ -36,7 +36,7 @@ body {
   font-family: var(--font-default);
   color: var(--color-default);
   background-color: #DF904E;
-  background-image: url('../img/amicamea.png');/*colocar imagen*/
+  background-image: url('../img/Amicamea.png');/*colocar imagen*/
   background-position: center center;/*acomodarla*/
   background-repeat: no-repeat;/**/
   background-size: contain;/*colocar a tamaño original*/
