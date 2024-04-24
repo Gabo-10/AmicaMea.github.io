@@ -19,9 +19,9 @@
 
 /* Colors LETRAS PRINCIPALES*/
 :root {
-  --color-default: #FDFAD8;
+  --color-default: #fdd8d8;
   --color-primary: #DF904E;
-  --color-secondary: rgba(223, 143, 78, 0.692);
+  --color-secondary: rgba(23, 30, 51, 0.945);
 }
 
 /* Smooth scroll behavior */
