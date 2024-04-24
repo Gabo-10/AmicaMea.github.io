@@ -36,7 +36,7 @@ body {
   font-family: var(--font-default);
   color: var(--color-default);
   background-color: #DF904E;
-  background-image: url(/assets/img/amicamea.png);/*colocar imagen*/
+  background-image: url(../assets/img/amicamea.png);/*colocar imagen*/
   background-position: center center;/*acomodarla*/
   background-repeat: no-repeat;/**/
   background-size: contain;/*colocar a tamaño original*/
@@ -583,7 +583,7 @@ h6 {
     background: rgba(253, 250, 216, 0.904);
     z-index: 9996;
 
-    background-image: url(/assets/img/Amicamea.png);/*colocar imagen*/
+    background-image: url(../assets/img/Amicamea.png);/*colocar imagen*/
     background-position: center center;/*acomodarla*/
     background-repeat: no-repeat;/**/
     background-size: contain;/*colocar a tamaño*/
