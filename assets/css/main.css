@@ -305,7 +305,7 @@ h6 {
 }
 /*BARRA MENU LETRAS*/
 .header .logo h1 {
-  font-size: 32px;
+  font-size: 20px;
   margin: 0;
   font-weight: 400;
   color: #FDFAD8;
@@ -334,11 +334,11 @@ h6 {
 /*BARRA MENU ICONOS*/
 .header .header-social-links a {
   color: rgba(253,250,216);
-  padding-left: 10px;
+  padding-left: 5px;
   display: inline-block;
   line-height: 0px;
   transition: 0.3s;
-  font-size: 16px;
+  font-size: 20px;
 }
 /*BARRA MENU ICONOS*/
 .header .header-social-links a:hover {
