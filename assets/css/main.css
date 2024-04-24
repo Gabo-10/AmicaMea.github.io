@@ -334,7 +334,7 @@ h6 {
 /*BARRA MENU ICONOS*/
 .header .header-social-links a {
   color: rgba(253,250,216);
-  padding-left: 15px;
+  padding-left: 10px;
   display: inline-block;
   line-height: 0px;
   transition: 0.3s;
