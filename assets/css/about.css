@@ -22,6 +22,7 @@
     --color-default: #FDFAD8;
     --color-primary: #DF904E;
     --color-secondary: rgba(23, 30, 51, 0.945);
+    
   }
   
   /* Smooth scroll behavior */
@@ -36,11 +37,12 @@
     font-family: var(--font-default);
     color: var(--color-default);
     background-color: #fd8282;
-    /*background-image: url('../img/Amicamea.png');/*colocar imagen*/
+    background-image: url('../img/Amicamea.png');/*colocar imagen*/
     background-position: center center;/*acomodarla*/
     background-repeat: no-repeat;/**/
     background-size: contain;/*colocar a tamaño original*/
-    background-attachment: fixed;/*para que abarque hasata abajo de la pantalla*/
+    /*background-attachment: fixed;/*para que abarque hasata abajo de la pantalla*/
+    height: 500px;
   }
   
   a {
