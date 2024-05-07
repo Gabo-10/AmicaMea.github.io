@@ -335,7 +335,7 @@
   }
   /*BARRA MENU ICONOS*/
   .header .header-social-links a {
-    color: rgba(253,250,216);
+    color: rgb(222, 253, 216);
     padding-left: 5px;
     display: inline-block;
     line-height: 0px;
@@ -513,7 +513,7 @@
       font-size: 13px;
       text-transform: uppercase;
       font-weight: 400;
-      color: rgba(253,250,216);
+      color: rgb(216, 253, 219);
       letter-spacing: 1px;
       white-space: nowrap;
       transition: 0.3s;
@@ -549,7 +549,7 @@
     }
   /*ICONO BARRA MENU*/
     .mobile-nav-show {
-      color: #FDFAD8;
+      color: #d8fddd;
       font-size: 30px;
       cursor: pointer;
       line-height: 0;
@@ -582,7 +582,7 @@
       content: "";
       position: fixed;
       inset: 0;
-      background: rgba(253, 250, 216, 0.904);
+      background: rgba(216, 253, 216, 0.904);
       z-index: 9996;
   
       background-image: url('../img/Amicamea.png');/*colocar imagen*/
@@ -1191,7 +1191,7 @@
   .hero {
     width: 100%;
     min-height: 30vh;
-    background: rgba(253, 250, 216, 0.884);
+    background: rgba(157, 247, 239, 0.884);
     background-size: cover;
     position: relative;
     padding: 140px 0 60px 0;
