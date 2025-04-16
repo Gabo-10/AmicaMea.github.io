@@ -33,7 +33,9 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: var(--font-default);
+  font-family: "Gwendolyn", cursive;
+  font-weight: 700;
+  font-style: normal;
   color: var(--color-default);
   background-color: #DF904E;
  background-image: url('../img/Amicamea.png');/*colocar imagen*/
@@ -54,13 +56,19 @@ a:hover {
 }
 
 h1,
-h2,
 h3,
 h4,
 h5,
 h6 {
   font-family: var(--font-primary);
 }
+
+h2 {
+  font-family: "Gwendolyn", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
 
 /*--------------------------------------------------------------
 # Sections & Section Header
@@ -1197,10 +1205,12 @@ h6 {
 /*LETRAS MENU PRINCIPAL*/
 .hero h2 {
   margin: 0 0 10px 0;
-  font-size: 38px;
+  font-size: 80px;
   font-weight: 700;
   color: #171E33;
-  font-family: var(--font-secondary);
+  font-family: "Gwendolyn", cursive;
+  font-weight: 700;
+  font-style: normal;
 }
 
 .hero h2 span {
@@ -1224,7 +1234,7 @@ h6 {
 .hero p {
   color: rgba(23,30,51);
   margin-bottom: 30px;
-  font-size: 18px;
+  font-size: 40px;
 }
 /*COLOR LETRAS BOTON MENU PRINCIPAL*/
 .hero .btn-get-started {

@@ -21,7 +21,7 @@
   :root {
     --color-default: #FDFAD8;
     --color-primary: #DF904E;
-    --color-secondary: rgba(23, 30, 51, 0.945);
+    --color-secondary: rgba(245, 245, 245, 0.945);
     
   }
   
@@ -1073,19 +1073,20 @@
     margin-right: 15px;
   }
   
+  /*color de letras*/
   .contact .info-item h4 {
     padding: 0;
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 5px;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgb(0, 0, 0);
   }
   
   .contact .info-item p {
     padding: 0;
     margin-bottom: 0;
     font-size: 14px;
-    color: #fff;
+    color: #000000;
   }
   
   .contact .info-item:hover i {
@@ -1201,7 +1202,7 @@
     margin: 0 0 10px 0;
     font-size: 38px;
     font-weight: 700;
-    color: #171E33;
+    color: #f6f7f9;
     font-family: var(--font-secondary);
   }
   
@@ -1239,12 +1240,12 @@
     letter-spacing: 1px;
     text-transform: uppercase;
     transition: 0.3s;
-    color: #fff;
+    color: #ffffff;
     background: var(--color-primary);
   }
   /*COLOR BOTON MENU PRINCIPAL*/
   .hero .btn-get-started:hover {
-    background: #171E33;
+    background: #171e33;
   }
   
   @media (max-width: 768px) {
